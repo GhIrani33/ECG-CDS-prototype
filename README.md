@@ -1,4 +1,4 @@
-# ECG-CDS-ED2ED: Clinical ICD-10 Prediction from 12-lead ECG (ED setting)
+# ECG-CDS-ED2ED: Clinical ICD-10 Prediction from 12-lead ECG
 
 
 **Status:** Research/Feasibility • Windows/PowerShell–first, fully reproducible
