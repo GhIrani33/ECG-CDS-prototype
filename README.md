@@ -14,7 +14,7 @@ This repository provides a **reproducible pipeline** to evaluate whether ECG alo
 
 ---
 
-## TL;DR (What to know in 30 seconds)
+## TL;DR
 
 * **Task:** Predict **ED discharge ICD-10 codes** from a single 12-lead ECG (ED2ED label space).
 * **Modeling:** **Frozen ECG-FM encoder** + lightweight MLP head, **ASL (focal-style)** loss, **attention pooling**.
